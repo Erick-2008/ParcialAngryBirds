@@ -156,7 +156,7 @@ Esto es posible gracias a:
 
 ---
 
-## 🧠 Conceptos Aplicados
+## Conceptos Aplicados
 
 * **Herencia**: jerarquía de pájaros
 * **Polimorfismo**: cálculo de fuerza dinámico
